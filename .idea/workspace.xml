@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c5d9bef-386d-4ad9-b9f0-9dbb5ebcea16" name="Changes" comment="" />
+    <list default="true" id="9c5d9bef-386d-4ad9-b9f0-9dbb5ebcea16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,13 +15,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ztuB6EeFKfAxsG7g4UrK6zpzxs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,12 +33,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.CalculatorKt.executor": "Run",
+    "Kotlin.ConditionalstatementsKt.executor": "Run",
     "Kotlin.DatatypeKt.executor": "Run",
+    "Kotlin.EvenoddKt.executor": "Run",
     "Kotlin.IntroductionKt.executor": "Run",
+    "Kotlin.OperatorsKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
+    "Kotlin.UserinputoutputKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
+    "Kotlin.WhenstatementKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "/home/emobilis/IdeaProjects/Kotlin Basics/src/Main.kt"
   }
 }]]></component>
