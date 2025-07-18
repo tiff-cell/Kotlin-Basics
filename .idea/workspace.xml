@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -33,12 +33,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.ArraysKt.executor": "Run",
     "Kotlin.CalculatorKt.executor": "Run",
     "Kotlin.ConditionalstatementsKt.executor": "Run",
+    "Kotlin.ConstractorKt.executor": "Run",
     "Kotlin.DatatypeKt.executor": "Run",
     "Kotlin.EvenoddKt.executor": "Run",
+    "Kotlin.FunctionsKt.executor": "Run",
+    "Kotlin.InheritanceKt.executor": "Run",
     "Kotlin.IntroductionKt.executor": "Run",
+    "Kotlin.LeapyrKt.executor": "Run",
+    "Kotlin.LoopsKt.executor": "Run",
+    "Kotlin.MultiplicationtbKt.executor": "Run",
+    "Kotlin.ObjectiveorientedprogramKt.executor": "Run",
     "Kotlin.OperatorsKt.executor": "Run",
+    "Kotlin.PolymorphismKt.executor": "Run",
+    "Kotlin.PrimenumbersKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
     "Kotlin.UserinputoutputKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
@@ -68,6 +78,11 @@
           <url>file://$PROJECT_DIR$/src/Main.kt</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/loops.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
